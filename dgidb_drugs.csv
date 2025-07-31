@@ -1,0 +1,4 @@
+Gene,Drug,Interaction
+TP53,APR-246,Restores p53
+TP53,Nutlin-3,MDM2 Inhibitor
+BRCA1,PARP Inhibitor,Synthetic Lethality
